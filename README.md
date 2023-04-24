@@ -1,3 +1,5 @@
+# available
+
 Use the `available` function to limit functionalities of your app to specific iOS and Android versions. 
 This could be useful if you're using API specific OS functionalities only available in certain OS versions.
 

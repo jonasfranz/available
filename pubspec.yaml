@@ -3,6 +3,7 @@ description: Limit functionalities of your app to specific Android and iOS versi
 version: 0.0.1
 homepage: https://github.com/jonasfranz/available
 repository: https://github.com/jonasfranz/available
+issue_tracker: https://github.com/jonasfranz/available/issues
 
 environment:
   sdk: '>=2.19.2 <3.0.0'
